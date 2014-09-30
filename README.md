@@ -3,5 +3,5 @@ Hello-World
 
 My first repository
 GitHUb looks great :coffee:
-from githum
+from github
 
